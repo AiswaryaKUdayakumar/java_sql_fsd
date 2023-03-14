@@ -1,4 +1,4 @@
-/**
+/** Write a program to print the details of person using constructor.
  * 
  */
 package constructor;
