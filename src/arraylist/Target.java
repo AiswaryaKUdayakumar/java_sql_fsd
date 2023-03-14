@@ -1,4 +1,5 @@
-/**
+/** Write JAVA program to find and print the 
+numbers whose sum gives 25.
  * 
  */
 package arraylist;
