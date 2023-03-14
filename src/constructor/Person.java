@@ -1,4 +1,5 @@
-/**
+/** Write a main program to display the person 
+details using constructor.
  * 
  */
 package constructor;
