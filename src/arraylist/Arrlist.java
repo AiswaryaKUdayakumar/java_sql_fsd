@@ -1,4 +1,5 @@
-/**
+/** Write a JAVA program to remove 
+index from the arraylist.
  * 
  */
 package arraylist;
