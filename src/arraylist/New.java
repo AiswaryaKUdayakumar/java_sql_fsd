@@ -1,5 +1,5 @@
-/**
- * 
+/** Write a JAVA program to iterate 
+the arraylist. 
  */
 package arraylist;
 
