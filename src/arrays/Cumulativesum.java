@@ -1,4 +1,5 @@
-/**
+/** Write a JAVA program to find the given lucky number 
+from the list.
  * 
  */
 package arrays;
