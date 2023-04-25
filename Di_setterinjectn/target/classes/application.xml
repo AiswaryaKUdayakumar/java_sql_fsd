@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean definitions here -->
+	<bean
+	 id="New" class="ustbatchno3.Di_setterinjectn.Roles">
+	 <property name="charactername" value="Chinnu"/>
+		 <property name="responsibility" value="Sister">
+	 </property>
+	 </bean>
+	 
+	 
+	 <bean
+	 id="New1" class="ustbatchno3.Di_setterinjectn.Roles">
+	 <property name="charactername" value="Chinnu"/>
+		 <property name="responsibility" value="Mother">
+	 </property>
+	 </bean>
+	 
+	 <bean
+	 id="New2" class="ustbatchno3.Di_setterinjectn.Roles">
+	 <property name="charactername" value="Chinnu"/>
+		 <property name="responsibility" value="Daughter">
+	 </property>
+	 </bean>
+	 
+	 
+	 <bean
+	 id="New3" class="ustbatchno3.Di_setterinjectn.Roles">
+	 <property name="charactername" value="Chinnu"/>
+		 <property name="responsibility" value="Wife">
+	 </property>
+	 </bean>
+</beans>
+
+
+
+
+
+
